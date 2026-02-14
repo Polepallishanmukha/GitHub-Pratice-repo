@@ -16,19 +16,7 @@ for number in numbers:
     product = product * number
 print('The product is:', product)
 
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
-
-
-
-
-
-
-
-
-#Fourth code
+#Third code
 fruits = ['Banana', 'Apple', 'Lime']
 loud_fruits = [fruit.upper() for fruit in fruits]
 print(loud_fruits)
