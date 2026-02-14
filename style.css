@@ -1,0 +1,31 @@
+/* styles.css */
+
+body {
+  background-color: lightblue; /* Sets the background color of the entire page */
+  font-family: Arial, sans-serif; /* Defines the default font for the page */
+  margin: 0; /* Removes default browser margin */
+  padding: 20px; /* Adds space inside the body element */
+}
+
+h1 {
+  color: white; /* Changes the text color of all h1 headings */
+  text-align: center; /* Centers the h1 headings */
+  border: 2px solid powderblue; /* Adds a solid, powderblue border */
+  padding: 15px; /* Adds padding inside the border */
+}
+
+p {
+  font-size: 20px; /* Changes the font size of all paragraphs */
+  color: #333; /* Sets a dark gray text color */
+}
+
+.highlight {
+  background-color: yellow; /* Styles an element with the class "highlight" */
+  font-weight: bold; /* Makes the text bold */
+}
+
+#main-content {
+  width: 80%; /* Sets the width of the element with the ID "main-content" */
+  margin: auto; /* Centers the element horizontally */
+}
+
